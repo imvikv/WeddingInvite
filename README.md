@@ -17,7 +17,7 @@ With the divine grace of the almighty, inviting you and your family to Saharsh's
 
 - Find [venue](https://g.page/Mishttenresort) on Google map
 
-- Visit the [website](https://saharshisha.netlify.app) for more details
+- Visit the [website](http://vikaspriyanka.netlify.app) for more details
 
 
 ```js
